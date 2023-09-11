@@ -8,8 +8,8 @@
   <li>Championed the end-to-end product development lifecycle, from conceptualization to the successful release of the MVP version.</li>
   <li>Executed highly targeted ecommerce marketing campaigns on social media platforms like Facebook and Instagram.</li>
   <li>Created eye-catching banners and promotional materials using Adobe Photoshop to enhance brand visibility.</li>
-  <li>Designed and develop user-centric UI/UX, meticulously crafting interfaces that enhance user engagement and satisfaction.</li>
+  <li>Designed and developed user-centric UI/UX, meticulously crafting interfaces that enhance user engagement and satisfaction.</li>
   <li>Strategically determined optimal cloud pricing structures to balance costs and performance.</li>
-  <li>Mentored junior team members and create comprehensive documentation to ensure knowledge sharing and project continuity.</li>
+  <li>Mentored junior team members and created comprehensive documentation to ensure knowledge sharing and project continuity.</li>
 </ul>
 </p>
