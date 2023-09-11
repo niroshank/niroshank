@@ -1,9 +1,7 @@
 <h1 align="center">Hi there! I'm Niroshan Kumarasinghe 👋</h1>
 <h3 align="center">A passionate .NET Full-Stack Developer based in Portland, Oregon</h3>
 
-<h3>Elizor (Founder, Architect)</h3>
-<p>Oct 2019 - Present | <a href="https://elizor.com/" target="_blank">Elizor</a></p>
-
+<h3>E-commerce platform - <a href="https://elizor.com/" target="_blank">Elizor.com</a></h3>
 <ul>
   <li>Take the lead in conducting in-depth research and requirement analysis to identify and address local community challenges.</li>
   <li>Architect a cloud-based, cost-efficient ecommerce platform utilizing pay-as-you-go models and AWS infrastructure.</li>
